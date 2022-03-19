@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "238752454769",
+    "project_id": "twitch-clone-tutorial",
+    "storage_bucket": "twitch-clone-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238752454769:android:9af3d02007de7c10d563d0",
+        "android_client_info": {
+          "package_name": "com.example.twitch_clone_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238752454769-2i0vjdn9jls33hodulfb0q5ufbcdaae8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GsMF67iPhK6ag-aZLJ1DIf8mBO6JSGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238752454769-2i0vjdn9jls33hodulfb0q5ufbcdaae8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238752454769-v575c0lndu5uk6i8joesbgqgdlp3n0lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitchCloneTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
