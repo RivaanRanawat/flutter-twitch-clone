@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-class ResponsiveLatout extends StatelessWidget {
+class ResponsiveLayout extends StatelessWidget {
   final Widget mobileBody;
   final Widget desktopBody;
-  const ResponsiveLatout({
+  
+  const ResponsiveLayout({
     Key? key,
     required this.mobileBody,
     required this.desktopBody,
